@@ -7,6 +7,7 @@ An end-to-end data analytics project focused on exploring banking transaction pa
 This project analyzes over one million synthetic banking transaction records to understand transaction behavior across transaction modes, transaction types, time periods, and accounts. Statistical techniques are used to examine transaction amount distributions and flag high-value transactions for further investigation.
 
 The analysis combines Python-based data cleaning and exploratory data analysis, MySQL queries, and an interactive Power BI dashboard to transform raw transaction data into meaningful insights.
+![Banking Transaction Analysis Dashboard](dashboard/dashboard_overview.png)
 
 ## Objectives
 
